@@ -17,4 +17,3 @@ to start it enter:
 python3 languagenut.py
 
 And follow the hack instructions.
-This hack was made by gidbot.
